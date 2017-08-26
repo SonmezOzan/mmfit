@@ -1,0 +1,14 @@
+Package: mmfit
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2016-02-21
+Author: Ozan Sonmez
+Maintainer: Ozan Sonmez <osonmez@ucdavis.edu>
+Description: R package will estimate parameters using the Method of Moments, using the gmm package for computation
+License: MIT
+LazyData: TRUE
+Imports: gmm, ggplot2, poweRlaw
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-02-25 05:48:52 UTC; Wlin
